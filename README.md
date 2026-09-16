@@ -1,7 +1,10 @@
 ⚠️ WORK IN PROGRESS
 
 # dataops-osm-parking
-> Parking Lots and Garages within Hamilton County from [OpenStreetMap](https://www.openstreetmap.org/) 
+> Parking Lots and Garages within Hamilton County from [OpenStreetMap](https://www.openstreetmap.org/)
+
+## license
+The data is licensed under ODbL (Open Database License) as it comes from OpenStreetMap.  Any code in this repo is released into the public domain as CCO-1.0.
 
 ## background
 We built this dataset to feed a parking layer in the [Chattanooga Parking Network Map](https://map.chattanoogaparking.net/).
