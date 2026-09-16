@@ -47,4 +47,4 @@ out geom;
 - You can view the geojson on a map using [geojson.io](https://geojson.io/#data=data:text/x-url,https://gocarta.s3.us-east-2.amazonaws.com/public/data/osm_parking/v1/data.polygons.geojson).
 
 ## support
-Post an issue [here](https://github.com/gocarta/dataops-cloud-vehicle-locations/issues) or email the package author at DanielDufour@gocarta.org.
+Post an issue [here](https://github.com/gocarta/dataops-osm-parking/issues) or email the package author at DanielDufour@gocarta.org.
