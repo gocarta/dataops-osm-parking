@@ -62,7 +62,7 @@ out geom;
 - You can view the geojson of points on a map using [geojson.io](https://geojson.io/#data=data:text/x-url,https://gocarta.s3.us-east-2.amazonaws.com/public/data/osm_parking/v1/data.points.geojson).
 - You can view the geojson of polygons on a map using [geojson.io](https://geojson.io/#data=data:text/x-url,https://gocarta.s3.us-east-2.amazonaws.com/public/data/osm_parking/v1/data.polygons.geojson).
 - You can view the shapefile of points on a map using [shapefile.io](https://shapefile.io?url=https://gocarta.s3.us-east-2.amazonaws.com/public/data/osm_parking/v1/data.points.shp.zip).
-- - You can view the shapefile of polygons on a map using [shapefile.io](https://shapefile.io?url=https://gocarta.s3.us-east-2.amazonaws.com/public/data/osm_parking/v1/data.polygons.shp.zip).
+- You can view the shapefile of polygons on a map using [shapefile.io](https://shapefile.io?url=https://gocarta.s3.us-east-2.amazonaws.com/public/data/osm_parking/v1/data.polygons.shp.zip).
 - You can query the data with SQL using [duckdb](https://shell.duckdb.org/#queries=v0,CREATE-TABLE-dataset-AS-SELECT-*-FROM-'s3://gocarta/public/data/osm_parking/v1/data.parquet'~,Describe-dataset~).
 
 ## support
