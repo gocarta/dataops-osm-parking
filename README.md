@@ -1,5 +1,3 @@
-⚠️ WORK IN PROGRESS
-
 # dataops-osm-parking
 > Parking Lots and Garages within Hamilton County from [OpenStreetMap](https://www.openstreetmap.org/) via [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API)
 
@@ -10,7 +8,7 @@ The data is licensed under ODbL (Open Database License) because it comes from Op
 We built this dataset to feed a parking layer in the [Chattanooga Parking Network Map](https://map.chattanoogaparking.net/).
 
 ## frequency
-This pipeline is run once a day and on-demand.
+This pipeline is only run on demand.
 
 ## query
 ```
